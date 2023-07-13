@@ -1,0 +1,13 @@
+.blog-info {
+  width: 100%;
+  padding: 50px;
+}
+.img {
+  height: 200px;
+  width: 250px;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
